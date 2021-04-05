@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">MyMarket</string>
+
+
+    <string name="title_file_download">Descargando</string>
+
+    <string name="downloading">Por favor espere</string>
+
+    <string name="storage_access_required">El permiso de almacenamiento es requerido</string>
+    <string name="ok">OK</string>
+    <string name="storage_permission_denied">El permiso de almacenamiento ha sido denegado</string>
+
+
+</resources>
